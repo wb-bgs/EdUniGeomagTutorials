@@ -3,7 +3,7 @@
 Tutorials for the 4th year Geomagnetism course, see https://github.com/wb-bgs/EdUniGeomagTutorials.
 
 ## Contents
-Instructions for this tutorial are given in ``Geomagnetism Spherical Harmonic Tutorial.docx``, download this from the Github page.
+Instructions for this tutorial are given in ``Geomagnetism Spherical Harmonic Tutorial.pdf``, download this from the Github page or Learn.
 
 In the ``notebooks`` directory:
  1. ``Spherical-Harmonic-Models-1.ipynb``
